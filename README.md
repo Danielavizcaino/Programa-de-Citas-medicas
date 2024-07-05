@@ -1,4 +1,4 @@
-# Programa-de-Citas-medicas centro Medico Moderno
+# Programa-de-Citas-medicas primer invento
 #include <iostream>
 #include <string>
 #include <vector>
